@@ -1,0 +1,19 @@
+{
+  "name": "simple-storage",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "hardhat": "^2.12.6",
+    "prettier": "^2.8.3",
+    "prettier-plugin-solidity": "^1.1.1"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "^0.6.0",
+    "@nomiclabs/hardhat-etherscan": "^3.1.5",
+    "console": "^0.7.2",
+    "deploy": "^1.0.3",
+    "dotenv": "^16.0.3",
+    "env": "^0.0.2"
+  }
+}
